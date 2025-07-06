@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Farooqi</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer from USA</h3>
+<h3 align="center">A passionate SRE/DevOps and Cloud Engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifarooqi9744&label=Profile%20views&color=0e75b6&style=flat" alt="ifarooqi9744" /> </p>
 
